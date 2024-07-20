@@ -1,5 +1,7 @@
 # Cloudflare Workers Personal Site
 
+[Link to the site](https://site.michael-wheeler856.workers.dev/)
+
 To deploy:
 
 - Generate a Cloudflare API token with the ability to create zones and edit workers (use the edit worker template and add Zone->zone->edit)
